@@ -33,7 +33,7 @@ NAME、DESCRIPTION、TAGS 簡單填一下
 複製後邀請機器人到想要的伺服器
 
 #### 7.記下ID及TOKEN
-左邊設定項OAuth2->General->中間Client information->CLIENT ID複製
+左邊設定項OAuth2->General->中間Client information->CLIENT ID複製```1XXXXXXXXXXXXXXXXX```
 
 左邊設定項Bot->token 如果沒看到就reset token->token複製
 ```XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
